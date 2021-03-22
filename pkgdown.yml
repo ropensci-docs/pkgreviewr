@@ -1,0 +1,12 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  editors: editors.html
+  get_started: get_started.html
+  publish-review-on-github: publish-review-on-github.html
+last_built: 2021-07-13T02:14Z
+urls:
+  reference: https://docs.ropensci.org/pkgreviewr/reference
+  article: https://docs.ropensci.org/pkgreviewr/articles
+

@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "eec268bd20e55682af924a785aab12f16b24823b",
+    "author": "annakrystalli <annakrystalli@googlemail.com>",
+    "time": "2021-03-22 09:34:58",
+    "files": 4,
+    "merge": false,
+    "message": "add standard github action and remove travis\n"
+  },
+  "remote": "https://github.com/ropensci-org/pkgreviewr",
+  "pkg": "pkgreviewr"
+}
