@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5ab10d4b0818278fda83998dd2cf5dc22021571f",
+    "author": "Anna Krystalli <annakrystalli@googlemail.com>",
+    "time": "2023-09-04 06:44:07",
+    "files": 3,
+    "merge": true,
+    "message": "Merge pull request #80 from Pakillo/master\n\nAdd former usethis:::project_data() as internal function. Fix #79"
+  },
+  "repo": "https://github.com/ropensci-org/pkgreviewr",
+  "pkg": "pkgreviewr"
+}
