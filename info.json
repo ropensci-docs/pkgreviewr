@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "c90c2700f8dbff89ca3a54b48ef8ddc7a8f3c68d",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2026-02-18T15:24:27Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs: register as staff-maintained\n\nas prep for ropensci/roweb3#1206"
+  },
+  "repo": "https://github.com/ropensci-org/pkgreviewr",
+  "pkg": "pkgreviewr",
+  "time": "2026-08-14T18:45:26Z"
+}
